@@ -13,9 +13,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->Stats
+-->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsedaDeveloper&theme=prussian)
+
+### Stats
+<table><tr><td>
+
+  <img src='https://github-readme-stats.vercel.app/api/?username=AsedaDeveloper&count_private=true&show_icons=true'>
+
+  </td><td>
 
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AsedaDeveloper'>
+
   </td></tr></table>

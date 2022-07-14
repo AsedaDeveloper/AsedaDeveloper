@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsedaDeveloper&theme=prussian)
+
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AsedaDeveloper'>
+  </td></tr></table>

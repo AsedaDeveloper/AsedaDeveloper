@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
   </td><td>
 
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AsedaDeveloper'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AsedaDeveloper'> 
 
   </td></tr></table>

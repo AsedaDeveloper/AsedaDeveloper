@@ -1,4 +1,5 @@
-### Hi this is Aseda 👋
+<head>
+### Hi I'm Aseda 👋
 
 <!--
 **AsedaDeveloper/AsedaDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,5 +25,7 @@ Here are some ideas to get you started:
   </td><td>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsedaDeveloper&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
   </td></tr></table>
+  </head>
+
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="Contribution Grid Snake">

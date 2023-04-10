@@ -1,5 +1,5 @@
-<head>
-### Hi I'm Aseda 👋
+Hi I'm Aseda 👋
+
 
 <!--
 **AsedaDeveloper/AsedaDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
